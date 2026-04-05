@@ -1,23 +1,32 @@
-### ✨ Interest
-- Computer Network
-- Nginx
-- IaC (Terraform) 
-- Cloud Computing Services (AWS) 
+# Hi, I'm Aya Kim 👋
 
-### 🛠 Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+Cloud Support Engineer focused on networking, monitoring, automation, and technical enablement.
 
-### 🤝 Connect with Me
+## Selected Public Work
 
-[<img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>][linkedin]
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>][email]
+### Terraform AWS Provider Study
+- Organized and documented a step-by-step contribution journey for `hashicorp/terraform-provider-aws`
+- Weekly study records:
+  - [`cloud-club/dive-deep-open-source/terraform-provider-aws`](https://github.com/cloud-club/dive-deep-open-source/tree/main/terraform-provider-aws)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyourzinc%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## Open Source Contributions
 
-[linkedin]: https://www.linkedin.com/in/ayeonkim
-[email]: mailto:your.zinc@gmail.com
+### hashicorp/terraform-provider-aws
+- Contributed in Go to the AWS Terraform Provider
+- PRs:
+  - [#43218](https://github.com/hashicorp/terraform-provider-aws/pull/43218) — merged
+  - [#44388](https://github.com/hashicorp/terraform-provider-aws/pull/44388) — closed, with the proposal later incorporated into follow-up maintainer work
+  - [#46239](https://github.com/hashicorp/terraform-provider-aws/pull/46239) — in progress
+
+## Community & Technical Enablement
+- Study lead for Cloud Club's open-source contribution group
+- Guided weekly learning, code-reading, and contribution practice around Terraform AWS Provider
+
+## Tech Stack
+- **Languages:** Python, Go, Java
+- **Cloud / IaC:** AWS, Terraform, CloudFormation, Docker
+- **Networking / Web:** TCP/IP, DNS, HTTP(S), APIs, Load Balancing
+
+## Connect
+- [LinkedIn](https://www.linkedin.com/in/ayeonkim/)
+- [Blog](https://ayakim.notion.site/)
